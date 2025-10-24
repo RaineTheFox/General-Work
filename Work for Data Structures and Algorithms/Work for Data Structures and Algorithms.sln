@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 2", "Lab 2\Lab 2.vcxproj", "{EF9DE442-1AED-48C9-AC38-BF295EAD490F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "POJ-Fence_Repair", "POJ-Fence_Repair\POJ-Fence_Repair.vcxproj", "{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spoj-MINSTOCK", "Spoj-MINSTOCK\Spoj-MINSTOCK.vcxproj", "{73DC9B66-95F8-445D-9E78-7890EC3BD172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{EF9DE442-1AED-48C9-AC38-BF295EAD490F}.Release|x64.Build.0 = Release|x64
 		{EF9DE442-1AED-48C9-AC38-BF295EAD490F}.Release|x86.ActiveCfg = Release|Win32
 		{EF9DE442-1AED-48C9-AC38-BF295EAD490F}.Release|x86.Build.0 = Release|Win32
+		{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}.Debug|x64.ActiveCfg = Debug|x64
+		{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}.Debug|x64.Build.0 = Debug|x64
+		{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}.Debug|x86.Build.0 = Debug|Win32
+		{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}.Release|x64.ActiveCfg = Release|x64
+		{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}.Release|x64.Build.0 = Release|x64
+		{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}.Release|x86.ActiveCfg = Release|Win32
+		{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}.Release|x86.Build.0 = Release|Win32
+		{73DC9B66-95F8-445D-9E78-7890EC3BD172}.Debug|x64.ActiveCfg = Debug|x64
+		{73DC9B66-95F8-445D-9E78-7890EC3BD172}.Debug|x64.Build.0 = Debug|x64
+		{73DC9B66-95F8-445D-9E78-7890EC3BD172}.Debug|x86.ActiveCfg = Debug|Win32
+		{73DC9B66-95F8-445D-9E78-7890EC3BD172}.Debug|x86.Build.0 = Debug|Win32
+		{73DC9B66-95F8-445D-9E78-7890EC3BD172}.Release|x64.ActiveCfg = Release|x64
+		{73DC9B66-95F8-445D-9E78-7890EC3BD172}.Release|x64.Build.0 = Release|x64
+		{73DC9B66-95F8-445D-9E78-7890EC3BD172}.Release|x86.ActiveCfg = Release|Win32
+		{73DC9B66-95F8-445D-9E78-7890EC3BD172}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Lab work OOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F7F92A4-B935-488C-B100-D4A3B38E6CA9}|Problem 3\\Problem 3.vcxproj|C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Lab work OOP\\Problem 3\\Problem 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F7F92A4-B935-488C-B100-D4A3B38E6CA9}|Problem 3\\Problem 3.vcxproj|solutionrelative:Problem 3\\Problem 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C571A14-C11A-4C8D-8EA7-FAAE78FF7093}|Problem 2\\Problem 2.vcxproj|C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Lab work OOP\\Problem 2\\Problem 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C571A14-C11A-4C8D-8EA7-FAAE78FF7093}|Problem 2\\Problem 2.vcxproj|solutionrelative:Problem 2\\Problem 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Problem 3.cpp",
+              "DocumentMoniker": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Lab work OOP\\Problem 3\\Problem 3.cpp",
+              "RelativeDocumentMoniker": "Problem 3\\Problem 3.cpp",
+              "ToolTip": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Lab work OOP\\Problem 3\\Problem 3.cpp",
+              "RelativeToolTip": "Problem 3\\Problem 3.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T05:24:06.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Problem 2.cpp",
               "DocumentMoniker": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Lab work OOP\\Problem 2\\Problem 2.cpp",
               "RelativeDocumentMoniker": "Problem 2\\Problem 2.cpp",
               "ToolTip": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Lab work OOP\\Problem 2\\Problem 2.cpp",
               "RelativeToolTip": "Problem 2\\Problem 2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-17T05:39:11.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Problem 1.cpp",
               "DocumentMoniker": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Lab work OOP\\Problem 1\\Problem 1.cpp",
               "RelativeDocumentMoniker": "Problem 1\\Problem 1.cpp",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Problem 1\\Problem 1.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-17T05:14:35.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T05:14:35.747Z"
             }
           ]
         }

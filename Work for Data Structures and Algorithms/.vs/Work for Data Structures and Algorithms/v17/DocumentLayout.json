@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73DC9B66-95F8-445D-9E78-7890EC3BD172}|Spoj-MINSTOCK\\Spoj-MINSTOCK.vcxproj|C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\Spoj-MINSTOCK\\Spoj-MINSTOCK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73DC9B66-95F8-445D-9E78-7890EC3BD172}|Spoj-MINSTOCK\\Spoj-MINSTOCK.vcxproj|solutionrelative:Spoj-MINSTOCK\\Spoj-MINSTOCK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF9DE442-1AED-48C9-AC38-BF295EAD490F}|Lab 2\\Lab 2.vcxproj|C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\Lab 2\\Lab 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF9DE442-1AED-48C9-AC38-BF295EAD490F}|Lab 2\\Lab 2.vcxproj|solutionrelative:Lab 2\\Lab 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}|POJ-Fence_Repair\\POJ-Fence_Repair.vcxproj|C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\POJ-Fence_Repair\\POJ-Fence_Repair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DFE555B-01D3-4AFC-85DF-FB9EB33EC611}|POJ-Fence_Repair\\POJ-Fence_Repair.vcxproj|solutionrelative:POJ-Fence_Repair\\POJ-Fence_Repair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Lab 2.cpp",
               "DocumentMoniker": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\Lab 2\\Lab 2.cpp",
               "RelativeDocumentMoniker": "Lab 2\\Lab 2.cpp",
               "ToolTip": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\Lab 2\\Lab 2.cpp",
               "RelativeToolTip": "Lab 2\\Lab 2.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAADYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-15T13:37:24.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "POJ-Fence_Repair.cpp",
+              "DocumentMoniker": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\POJ-Fence_Repair\\POJ-Fence_Repair.cpp",
+              "RelativeDocumentMoniker": "POJ-Fence_Repair\\POJ-Fence_Repair.cpp",
+              "ToolTip": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\POJ-Fence_Repair\\POJ-Fence_Repair.cpp",
+              "RelativeToolTip": "POJ-Fence_Repair\\POJ-Fence_Repair.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T11:19:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spoj-MINSTOCK.cpp",
+              "DocumentMoniker": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\Spoj-MINSTOCK\\Spoj-MINSTOCK.cpp",
+              "RelativeDocumentMoniker": "Spoj-MINSTOCK\\Spoj-MINSTOCK.cpp",
+              "ToolTip": "C:\\Users\\Raine\\source\\repos\\RaineTheFox\\General-Work\\Work for Data Structures and Algorithms\\Spoj-MINSTOCK\\Spoj-MINSTOCK.cpp",
+              "RelativeToolTip": "Spoj-MINSTOCK\\Spoj-MINSTOCK.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T12:22:57.833Z",
               "EditorCaption": ""
             }
           ]
